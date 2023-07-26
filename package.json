@@ -1,0 +1,17 @@
+{
+  "name": "skillwill-task",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "Tamar Jafaridze",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
